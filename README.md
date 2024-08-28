@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sebastian Ulrich</h1>
-<h3 align="center">An aspiring MERN stack developer from Germany</h3>
+<h1 align="left">Hi 👋, I'm Sebastian Ulrich</h1>
+<h3 align="left">An aspiring MERN stack developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proxynerd420&label=Profile%20views&color=0e75b6&style=flat" alt="proxynerd420" /> </p>
 
