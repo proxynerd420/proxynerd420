@@ -1,10 +1,16 @@
-<h1 align="left">Hi 👋, I'm Sebastian Ulrich</h1>
-<h3 align="left">An aspiring MERN stack developer from Germany</h3>
+<h1 align="center">Hi 🤘, I'm proxynerd420 aka basti</h1>
+<h3 align="center">An aspiring MERN stack developer and A.I. prompt juggler from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proxynerd420&label=Profile%20views&color=0e75b6&style=flat" alt="proxynerd420" /> </p>
 
+- 🔭 I’m currently working on **a D&D adventure.**
 
-<h3 align="left">Connect with me:</h3>
+- 💬 Ask me about **my EDH decks.**
+
+- 📫 How to reach me: **sebastian.ulrich@dci-student.org**
+
+- ⚡ Fun fact: **I talk when I sleep.**
+
 <p align="left">
 </p>
 
