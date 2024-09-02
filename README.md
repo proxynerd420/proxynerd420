@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **my EDH decks.**
 
-- 📫 What you can expect if you wanted to reach me: **I see your msg and 3 seconds later my social anxiety kicks in, so pls be gentle**
+- 📫 What you can expect if you wanted to reach me: **I see your msg and 3 seconds later my social anxiety kicks in, so pls be gentle...**
 
-- ⚡ Fun fact: **I LOVE 80s cartoons like Saber Rider, Galaxy Rangers, He-Man.**
+- ⚡ Fun fact: **I LOVE 80s cartoons like Saber Rider, Galaxy Rangers & He-Man.**
 
 <p align="left">
 </p>
